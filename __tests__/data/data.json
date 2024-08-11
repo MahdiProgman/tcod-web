@@ -1,0 +1,73 @@
+{
+  "users" : [
+    {
+      "first_name": "Mahdi",
+      "last_name": "HabibKhah",
+      "email": "mahdihabibkah78@gmail.com",
+      "user_name": "Mahdi_Progman",
+      "password": "Mahdi@1387"
+    },
+    {
+      "first_name": "Mahdi",
+      "last_name": "HabibKhah",
+      "email": "mahdihabibkah78@gmail.com",
+      "user_name": "Mahdi_Progman2",
+      "password": "Mahdi@1387"
+    },
+    {
+      "first_name": "Mahdi",
+      "last_name": "HabibKhah",
+      "email": "mahdihabibkah878@gmail.com",
+      "user_name": "Mahdi_Progman",
+      "password": "Mahdi@1387"
+    }
+  ],
+  "teachers" : [
+    {
+      "first_name": "Mahdi",
+      "last_name": "HabibKhah",
+      "email": "mahdihabibkah878@gmail.com",
+      "user_name": "Mahdi_Progman2",
+      "password": "Mahdi@1387"
+    }
+  ],
+  "admins" : [
+    {
+      "first_name": "Mahdi",
+      "last_name": "HabibKhah",
+      "email": "mahdihabibkah878@gmail.com",
+      "user_name": "Mahdi_Progman2",
+      "password": "Mahdi@1387"
+    }
+  ],
+  "courses" : [
+    {
+      "name": "react-advanced",
+      "title": "دوره آموزش ری اکت پیشرفته",
+      "category": "front-end",
+      "description": "این دوره یک دوره عالی است برای یادگیری در نوشتن برنامه های تحت وب با ری اکت",
+      "viewType": 0,
+      "supportType": 0,
+      "requirements": "HTML/CSS/JavaScript/React",
+      "courseStatus": 0
+    },
+    {
+      "name": "react-advanced",
+      "title": "دوره آموزش ری اکت",
+      "category": "front-end",
+      "description": "این دوره یک دوره عالی است برای یادگیری در نوشتن برنامه های تحت وب با ری اکت",
+      "viewType": 2,
+      "supportType": 0,
+      "requirements": "HTML/CSS/JavaScript/React",
+      "courseStatus": 0
+    }
+  ],
+  "disscounts" : [
+    {
+      "amount" : 50,
+      "courses" : [],
+      "type" : "percent",
+      "enableFor" : "one"
+    }
+  ]
+}

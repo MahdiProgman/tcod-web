@@ -1,0 +1,6 @@
+{
+    "db" : {
+        "address" : "mongodb://127.0.0.1:27017/tcod-web"
+    }, 
+    "private_key" : "dhr381r91rh31fh81f93fh21fg4"
+}
